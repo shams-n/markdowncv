@@ -1,19 +1,29 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Mitsubishi Electric
+  link: https://mitsubishielectric.ie/
+  job_title: Automation Engineering Intern
+  dates: October 2018 - August 2019
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
 
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: UBC Data Analytics and Intelligent Systems Lab
+  link: https://dais.chbe.ubc.ca/
+  job_title: USRA Researcher
+  dates: May 2018 - August 2018
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: Carl Zeiss Microscopy Ltd
+  link: https://zeiss.co.uk/microscopy/
+  job_title: Applications Engineering Intern
+  dates: July 2017 - August 2017
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
